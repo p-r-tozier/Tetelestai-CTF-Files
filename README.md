@@ -4,6 +4,6 @@ Any CTF files should be placed into a folder inside the appropriate category wit
 # CTF Write Ups
 ## Write ups from CTFs already completed
 
-[UT CTF] (https://ctftime.org/event/929/tasks/)
+[UT CTF](https://ctftime.org/event/929/tasks/)
 
-[Cyber FastTrack] (https://github.com/jselliott/CyberFastTrack_SP2020)
+[Cyber FastTrack](https://github.com/jselliott/CyberFastTrack_SP2020)
